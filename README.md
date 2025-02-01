@@ -50,3 +50,8 @@ The analysis includes key student attributes:
 - Predict student scores based on various features
 - Identify key patterns in student behavior and academic performance
 - Generate actionable insights for educational improvement
+
+# Author
+
+[Discord](https://discord.gg/TawJX4ue)
+[Email](mailto:worker.opentext@gmail.com)
